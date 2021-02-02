@@ -1,10 +1,10 @@
 # DNA DATA COMPRESSOR
 
-![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=ostash-group.dna-data-compessor&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/ostash-group/dna-data-compessor?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/ostash-group/dna-data-compessor?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/ostash-group/dna-data-compessor?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/ostash-group/dna-data-compessor?style=for-the-badge)
+![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=ostash-group.dna-data-compressor&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/ostash-group/dna-data-compressor?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/ostash-group/dna-data-compressor?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/ostash-group/dna-data-compressor?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/ostash-group/dna-data-compressor?style=for-the-badge)
 
 **dna-data-compessor** is a tiny library, it can quick convert (and compress) DNA sequences data (string data type in javascript) to binary data and vice versa. It can provide maximum level of DNA data compression (we suppose that allocation of nucleotides is random).<br />
 
